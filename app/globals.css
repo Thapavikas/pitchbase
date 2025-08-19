@@ -48,7 +48,7 @@
   }
 
   .pink_container {
-    @apply w-full bg-primary min-h-[530px] pattern flex justify-center items-center flex-col py-10 px-6;
+    @apply w-full bg-[#a2d2ff] min-h-[530px] pattern flex justify-center items-center flex-col py-10 px-6;
   }
 
   .tag {
